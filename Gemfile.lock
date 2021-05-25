@@ -85,7 +85,7 @@ GEM
     bootstrap-sass (2.3.2.2)
       sass (~> 3.2)
     bootstrap_form (1.0.0)
-    builder (3.2.4)
+    builder (3.1.4)
     calendar_helper (0.2.4)
       open4
     cancan (1.6.8)
@@ -280,7 +280,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     raindrops (0.19.1)
     rake (13.0.3)
-    redcarpet (3.3.2)
+    redcarpet (3.5.1)
     ref (1.0.4)
     remotipart (1.0.2)
     request_store (1.5.0)
